@@ -10,7 +10,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ParentComponent implements OnInit {
 
-public message = 'Hello';
+public message = 'Hello from parent';
   constructor() { }
 
   ngOnInit(): void {
